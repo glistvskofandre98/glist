@@ -1,7 +1,7 @@
 import telebot 
 from telebot import types # Імпортуємо types для роботи з кнопками
 
-TOKEN = "7815408165:AAEfu20IWpQdmyCRB9yu2kt9UnlGsV_OikU"
+TOKEN = "YOUR TOKEN"
 
 # Об'єкт бота
 bot = telebot.TeleBot(TOKEN)
